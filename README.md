@@ -2,7 +2,7 @@
 
 Various Python tools I've created to better visualize Fantasy Premier League data.
 
-## Bar Chart Racer
+## Mini League Bar Chart Racer
 
 An animated bar chart showing the progression of your FPL mini-league standings over time.
 
