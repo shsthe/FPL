@@ -1,6 +1,6 @@
 # FPL Tools
 
-Various Python tools I've created to better visualize Fantasy Premier League data.
+Will eventually upload python tools I've created to better visualize Fantasy Premier League data.
 
 ## Mini League Bar Chart Racer
 
